@@ -1,7 +1,10 @@
 .steps {
-    list-style-type: lower-alpha;
-    background-color: red;
+    background-color: lightgreen;
 }
+.lasagna-Ingredients {
+    background-color: lightgreen;
+}
+
 body {
     background-color: #00c717  ; 
     font-size: 12px;
