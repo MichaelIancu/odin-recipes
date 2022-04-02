@@ -10,6 +10,13 @@
     padding: 10px;
 }
 
+.description {
+    background-color: lightgreen;
+    border-radius: 50px;
+    border:5px 
+    dashed white;  
+}
+
 .steps {
     background-color: lightgreen;
     border-radius: 50px;
