@@ -1,4 +1,4 @@
-.lasagna-Ingredients {
-    list-style-type: circle;
-    color: red;
+.steps {
+    list-style-type: lower-alpha;
+    background-color: red;
 }
