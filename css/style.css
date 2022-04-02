@@ -1,23 +1,44 @@
+.header{
+    background-color: rgb(250, 250, 250);
+    border-width: 200cm;
+    text-align: center;
+}
+
+.body-section {
+    background-image: url(https://i.pinimg.com/564x/5d/06/e6/5d06e6390c9a1cf9b8912261beccf945.jpg);
+    background-repeat: repeat;
+    padding: 10px;
+}
+
 .steps {
     background-color: lightgreen;
-    border-radius: 5%;
-    border-style: dashed;   
+    border-radius: 50px;
+    border:5px 
+    dashed white;  
 }
-.header{
-    margin-left: 250px;
-}
+
 .lasagna-Ingredients {
     background-color: lightgreen;
     list-style-type: circle;
-    border-radius: 5%;
-    border-style: dashed;
+    border-radius: 50px;
+    border:5px 
+    dashed white;
+
 }
-.box {
-    margin-left: 150px;
-    
-    
+
+.image img{
+    /* this is how you center an image in css */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*-------*/
+    border-radius: 50%;
+    height: 200px;
+    border:5px 
+    solid white;
+    padding: 50px;
 }
+
 body {
-    background-color: #00c717  ; 
     font-size: 12px;
 }
