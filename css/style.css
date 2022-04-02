@@ -1,8 +1,17 @@
 .steps {
     background-color: lightgreen;
+    border-radius: 5%;
+    border-style: dashed;
+    
+    
 }
 .lasagna-Ingredients {
     background-color: lightgreen;
+    list-style-type: circle;
+    border-radius: 5%;
+    border-style: dashed;
+    
+
 }
 
 body {
