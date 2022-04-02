@@ -56,71 +56,76 @@ body {
     solid white;
     width: 70px;
     float: right;
-    margin-right: 2cm;
+    margin-right: 3cm;
+    text-align: center;
 }
 
 .text-box {
     background-color: lightgreen;
-    border:5px 
-    dashed white;
+    
     margin-left: 7cm;
     margin-top: 2cm;
-    width: 12cm;
+    width: 14.5cm;
 }
 
-.lasagna-img {
-    margin-right: 15cm;
-    margin-bottom: 20cm;
-    background-color:aqua;
-    
+.text2-box {
+    background-color: lightgreen;
+    margin-left: 0cm;
+    margin-top: 2cm;
+    width: 14cm;
 }
 
-.lasagna-box {
+.homepage-box {
     display:inline-block;
     margin: 0 100px;
-    background-color: lightgreen;
-    border:5px; 
-    border:5px 
-    dashed white;
+    background-color: whitesmoke; 
+    width: 27.5cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .pizza-img {
     float: left;
     margin-top: -0.5cm;
-    background-color:aqua;
+    
 }
 
 .pizza-box {
     display:inline-block;
     margin: 0 100px;
     background-color: lightgreen;
-    border:5px; 
     border:5px 
     dashed white;
+    width: 22cm;
+}
+
+.lasagna-img {
+    float: right;
+    margin-top: -0.5cm;
+    
+}
+
+.lasagna-box {
+    display:inline-block;
+    margin: 0 100px;
+    background-color: lightgreen; 
+    border:5px 
+    dashed white;
+    width: 22cm;
 }
 
 .macroniandpasta-img {
     float: left;
     margin-bottom: 2cm;
-    background-color:aqua;
-    
     resize: 30px;
 }
 
 .macaroniandpasta-box {
     display:inline-block;
     margin: 0 100px;
-    background-color: lightgreen;
-    border:5px; 
+    background-color: lightgreen; 
     border:5px 
-    dashed white; 
-}
-
-.homepage-box {
-    display:inline-block;
-    margin: 0 100px;
-    background-color: lightgreen;
-    border:5px; 
-    border:5px 
-    dashed white; 
+    dashed white;
+    width: 22cm;
 }
 
