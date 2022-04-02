@@ -13,7 +13,11 @@
     
 
 }
-
+.box {
+    margin-left: 150px;
+    
+    
+}
 body {
     background-color: #00c717  ; 
     font-size: 12px;
